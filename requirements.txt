@@ -1,0 +1,24 @@
+# Core FastAPI and Server
+fastapi
+uvicorn[standard]
+
+# Database
+sqlalchemy
+
+# Data Validation
+pydantic
+# File Upload Support (for notification images)
+python-multipart
+aiofiles
+
+psycopg2
+
+
+pydantic-settings
+
+
+psycopg2-binary
+
+alembic
+
+
